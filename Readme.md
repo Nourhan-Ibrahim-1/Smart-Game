@@ -1,4 +1,4 @@
-# **Smart Game **
+# Smart Game 
 
 An intelligent game-based platform that combines multiple AI algorithms to determine the optimal delivery path while avoiding predicted dangerous zones. Designed for research, learning, and experimentation in smart decision-making systems using modern AI techniques.
 
