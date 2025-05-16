@@ -22,13 +22,21 @@ An intelligent game-based platform that combines multiple AI algorithms to deter
 
 ## 📦 Project Structure
 Smart-Game/
+
 ├── aco.py # Ant Colony Optimization logic
+
 ├── pso.py # Particle Swarm Optimization logic
+
 ├── perceptron.py # Perceptron model for danger prediction
+
 ├── utils.py # Utility functions (distance, features, etc.)
+
 ├── map.py # Grid/map generation and configuration
+
 ├── gui.py # Tkinter-based graphical interface
+
 ├── requirements.txt # List of required Python packages
+
 └── README.md # Project documentation
 
 
